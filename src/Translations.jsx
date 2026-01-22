@@ -1,16 +1,19 @@
 function Translations() {
   const terms = [
-    { en: "Feature", lv: "Funkcionalitāte" },
+    { en: "Feature", lv: "Funkcionālā iezīme" },
     { en: "Background", lv: "Konteksts" },
     { en: "Rule", lv: "Noteikums" },
-    { en: "Scenario", lv: "Piemērs" },
+    { en: "Scenario", lv: "Scenārijs" },
     { en: "Scenario Outline", lv: "Scenārijs pēc parauga" },
     { en: "Examples", lv: "Piemēri" },
     { en: "Given", lv: "Kad" },
     { en: "When", lv: "Ja" },
     { en: "Then", lv: "Tad" },
+    { en: "Or", lv: "Vai" },
     { en: "And", lv: "Un" },
-    { en: "But", lv: "Bet" }
+    { en: "But", lv: "Bet" },
+    { en: "User Story", lv: "Lietotājstāsts" },
+    { en: "#", lv: "Komentārs" }
   ];
 
   return (
